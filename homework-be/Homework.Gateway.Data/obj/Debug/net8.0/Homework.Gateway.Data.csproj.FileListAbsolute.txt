@@ -1,0 +1,12 @@
+C:\Users\jasek\source\repos\Homework\Homework.Gateway.Data\bin\Debug\net8.0\Homework.Gateway.Data.deps.json
+C:\Users\jasek\source\repos\Homework\Homework.Gateway.Data\bin\Debug\net8.0\Homework.Gateway.Data.dll
+C:\Users\jasek\source\repos\Homework\Homework.Gateway.Data\bin\Debug\net8.0\Homework.Gateway.Data.pdb
+C:\Users\jasek\source\repos\Homework\Homework.Gateway.Data\obj\Debug\net8.0\Homework.Gateway.Data.csproj.AssemblyReference.cache
+C:\Users\jasek\source\repos\Homework\Homework.Gateway.Data\obj\Debug\net8.0\Homework.Gateway.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jasek\source\repos\Homework\Homework.Gateway.Data\obj\Debug\net8.0\Homework.Gateway.Data.AssemblyInfoInputs.cache
+C:\Users\jasek\source\repos\Homework\Homework.Gateway.Data\obj\Debug\net8.0\Homework.Gateway.Data.AssemblyInfo.cs
+C:\Users\jasek\source\repos\Homework\Homework.Gateway.Data\obj\Debug\net8.0\Homework.Gateway.Data.csproj.CoreCompileInputs.cache
+C:\Users\jasek\source\repos\Homework\Homework.Gateway.Data\obj\Debug\net8.0\Homework.Gateway.Data.dll
+C:\Users\jasek\source\repos\Homework\Homework.Gateway.Data\obj\Debug\net8.0\refint\Homework.Gateway.Data.dll
+C:\Users\jasek\source\repos\Homework\Homework.Gateway.Data\obj\Debug\net8.0\Homework.Gateway.Data.pdb
+C:\Users\jasek\source\repos\Homework\Homework.Gateway.Data\obj\Debug\net8.0\ref\Homework.Gateway.Data.dll
